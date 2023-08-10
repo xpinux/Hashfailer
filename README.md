@@ -34,11 +34,11 @@ The default wordlist used is rockyou.txt, located in the directory provided belo
 
 For Advanced Users: If you're an advanced user, you can navigate to the code section where the 'directory' variable is defined and modify it to point to your preferred directory and wordlist.
 
-##License
+## License
 This project is open source and available under the MIT License.
 
-%%Contributing
+## Contributing
 Contributions are welcome! Please feel free to submit pull requests or open issues if you encounter any problems or have suggestions.
 
-##Disclaimer
+## Disclaimer
 This tool is intended for educational and security research purposes only. Use this tool responsibly and only on systems you have explicit permission to access.
