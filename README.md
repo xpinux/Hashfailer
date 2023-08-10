@@ -16,7 +16,7 @@ HashFailer is an open-source tool for identifying and cracking various hash type
 
 - Python 3.6 or higher
 - [Hashcat](https://hashcat.net/hashcat/)
-- [John the Ripper](https://www.openwall.com/john/
+- [John the Ripper](https://www.openwall.com/john/)
 - `pip install termcolor`
 
 ##Usage
