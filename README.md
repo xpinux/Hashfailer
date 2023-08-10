@@ -4,7 +4,6 @@ HashFailer is an open-source tool for identifying and cracking various hash type
 
 <img width="490" alt="image" src="https://github.com/xpinux/Hashfailer/assets/33750676/597b21d6-f85b-4542-b1d4-2a1e87b32855">
 
-
 ## Features
 
 - Supports a wide range of hash types, making it versatile for different scenarios.
