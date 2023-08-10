@@ -23,7 +23,7 @@ HashFailer is an open-source tool for identifying and cracking various hash type
 1. Run the script:
 `python hashfailer.py`
 2. Follow the prompts to enter the hash you want to identify and crack.
-3.Choose Hashcat or John the Ripper for cracking.
+3. Choose Hashcat or John the Ripper for cracking.
 
 ## Wordlist Requirements
 
