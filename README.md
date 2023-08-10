@@ -19,7 +19,7 @@ HashFailer is an open-source tool for identifying and cracking various hash type
 - [John the Ripper](https://www.openwall.com/john/)
 - `pip install termcolor`
 
-##Usage
+## Usage
 1. Run the script:
 `python hashfailer.py`
 2. Follow the prompts to enter the hash you want to identify and crack.
