@@ -32,7 +32,7 @@ To effectively utilize HashFailer with Hashcat and John the Ripper, it's essenti
 The default wordlist used is rockyou.txt, located in the directory provided below. If you're using Kali Linux, it's recommended to employ this wordlist. Make sure to unpack it from the tar archive.
   `dictionary = "/usr/share/wordlists/rockyou.txt"`
 
-`For Advanced Users: If you're an advanced user, you can navigate to the code section where the 'directory' variable is defined and modify it to point to your preferred directory and wordlist.`
+`For Advanced Users: If you're an advanced user, you can navigate to the code section where the 'directory' variable is defined and modify it to point to your preferred directory and wordlist`
 
 ## License
 This project is open source and available under the MIT License.
