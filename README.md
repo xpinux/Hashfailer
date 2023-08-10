@@ -2,7 +2,8 @@
 
 HashFailer is an open-source tool for identifying and cracking various hash types using Hashcat and John the Ripper. It's designed to help security professionals, researchers, and enthusiasts with hash analysis and password recovery.
 
-<img width="447" alt="image" src="https://github.com/xpinux/Hashfailer/assets/33750676/6f3d55af-8126-49a4-9faa-88648a415fd2">
+<img width="490" alt="image" src="https://github.com/xpinux/Hashfailer/assets/33750676/597b21d6-f85b-4542-b1d4-2a1e87b32855">
+
 
 ## Features
 
